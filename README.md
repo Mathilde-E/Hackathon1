@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Music Match
+
+This project was created with a team of six people during a 36h-Hackathon at the Wild Code School on the theme of "Music". The website aims to bring people together with their shared tastes in music, and also allows teachers to offer courses in different sorts of music. 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn start` or `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
